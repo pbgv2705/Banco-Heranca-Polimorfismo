@@ -1,0 +1,14 @@
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.exe
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.deps.json
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.runtimeconfig.json
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.runtimeconfig.dev.json
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.dll
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\bin\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.pdb
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.AssemblyInfo.cs
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.dll
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.pdb
+C:\Users\Paula\source\repos\Contas-Heranca-e-Polimorfismo\Contas-Heranca-e-Polimorfismo\obj\Debug\netcoreapp3.1\Contas-Heranca-e-Polimorfismo.genruntimeconfig.cache
